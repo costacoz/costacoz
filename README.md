@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Costa
+- 👀 I’m interested in: Vue, Nuxt and Django.
+- 🌱 I’m currently learning: Vue, Nuxt and Django.
+- 💞️ I’m looking to collaborate on: Vue, Nuxt and Django.
+- 📫 How to reach me: contact@devisr.com
